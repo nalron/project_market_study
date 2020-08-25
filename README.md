@@ -2,7 +2,7 @@
 ### Projet du parcours Data Analyst OpenClassrooms en partenariat avec l’ENSAE-ENSAI.
 Projet d'étude de marché sur le développement d'une entreprise d'agroalimentaire à l'international.
 
-![Lorenz](p4_graphic/cercle_correlation.png)
+![Corrélation](p4_graphic/cercle_correlation.png)
 
 ## Préambule
 Pour ce projet, les données ont été manipulées en Python sur support Jupyter Notebook. Opérations de clustering hiérarchique et K-Means, ACP et visualisation des clusters Pays sur le(s) plan(s) factoriel(s), cercle des corrélations. 
