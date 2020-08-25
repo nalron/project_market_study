@@ -1,7 +1,7 @@
 # Projet : Etude de marché IAA, stratégie d'exportation
 ### Projet du parcours Data Analyst OpenClassrooms en partenariat avec l’ENSAE-ENSAI.
 Projet d'étude de marché sur le développement d'une entreprise d'agroalimentaire à l'international.
-*Industrie Agroalimentaire (en abrégé IAA)* 
+*Industrie Agroalimentaire (IAA)* 
 
 ![Corrélation](p5_graphic/cercle_correlation.png)
 
